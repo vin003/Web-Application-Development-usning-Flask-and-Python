@@ -1,0 +1,4 @@
+If we keep the html files and the codefile in the same location it will unable to open
+therefore create two folder   a) static   b) templates
+insert the index.html file into the templates so this ways now we can call render template and  run the html using python code
+-------------------------------------------------------------------------------------------------------------------------------------------------

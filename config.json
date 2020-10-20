@@ -1,0 +1,24 @@
+{
+
+  "params" : {
+
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codethunder",
+    "prod_uri" : "",
+    "fb_url" : "https://facebook.com/codingthunder",
+    "tw_url" : "https://twitter.com/codingthunder",
+    "git_url" : "https://github.com/codingthunder",
+    "blog_name" : "Reliance Blog",
+    "tag_line" : "A blog liked by Jio Users",
+    "gmail-user" : "twenty20jobsforvineet@gmail.com",
+    "gmail-password" : "Vine@4970", 
+    "about-text": "Hi am Vineet Jain , I'm 26 years old and I am a good boy",
+    "no_of_posts": 5
+
+
+
+  }
+
+
+
+}
